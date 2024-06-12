@@ -46,7 +46,7 @@ Step 10: Perform System Backup
 <p>
 After installing osTicket, the following configurations will help you set up the system for optimal performance and usability.
 
-Step 1: Log in to the Admin Panel
+<h2>Step 1: Log in to the Admin Panel</h2>
 
 1. Access the Admin Panel:
    - Open a web browser and navigate to your osTicket URL, typically `http://your-server-ip/osticket/scp`.
@@ -58,7 +58,7 @@ Step 1: Log in to the Admin Panel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2: Configure Basic Settings
+<h2>Step 2: Configure Basic Settings</h2>
 
 1. Navigate to Settings:
    - Go to the Admin Panel and click on the Settings tab.
@@ -76,7 +76,7 @@ Step 2: Configure Basic Settings
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 3: Set Up Email
+<h2>Step 3: Set Up Email</h2>
 
 1. Configure Email Settings:
    - Go to Admin Panel > Emails > Settings.
@@ -100,7 +100,7 @@ Step 3: Set Up Email
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 4: Create Departments and Teams
+<h2>Step 4: Create Departments and Teams</h2>
 
 1. Departments:
    - Navigate to Admin Panel > Agents > Departments.
@@ -121,7 +121,7 @@ Step 4: Create Departments and Teams
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5: Create and Assign Agents
+<h2>Step 5: Create and Assign Agents</h2>
 
 1. Create Agents:
    - Go to Admin Panel > Agents > Add New Agent.
@@ -141,7 +141,7 @@ Step 5: Create and Assign Agents
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 6: Configure Help Topics
+<h2>Step 6: Configure Help Topics</h2>
 
 1. Help Topics:
    - Go to Admin Panel > Manage > Help Topics.
@@ -155,7 +155,7 @@ Step 6: Configure Help Topics
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 7: Customize Ticket Fields and Forms
+<h2>Step 7: Customize Ticket Fields and Forms</h2>
 
 1. Ticket Fields:
    - Navigate to Admin Panel > Manage > Forms.
@@ -173,7 +173,7 @@ Step 7: Customize Ticket Fields and Forms
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 8: Set Up Service Level Agreements (SLAs)
+<h2>Step 8: Set Up Service Level Agreements (SLAs)</h2>
 
 1. SLAs:
    - Go to Admin Panel > Manage > SLA Plans.
@@ -189,7 +189,7 @@ Step 8: Set Up Service Level Agreements (SLAs)
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 9: Configure Auto-Responder and Alerts
+<h2>Step 9: Configure Auto-Responder and Alerts</h2>
 
 1. Auto-Responder:
    - Navigate to Admin Panel > Settings > Autoresponder.
@@ -208,7 +208,7 @@ Step 9: Configure Auto-Responder and Alerts
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 10: Perform System Backup
+<h2>Step 10: Perform System Backup</h2>
 
 1. Backup Database:
    - Regularly backup your MySQL database using tools like phpMyAdmin or the `mysqldump` command.
@@ -218,5 +218,5 @@ Step 10: Perform System Backup
 </p>
 <br />
 
-Conclusion:
+<h2>Conclusion:<h2>
 By following these steps, you will have a fully configured osTicket system, ready to manage support tickets efficiently. Customize further based on your organization's specific needs and workflow requirements. This post-installation configuration ensures that your osTicket setup is tailored for optimal performance and usability.
