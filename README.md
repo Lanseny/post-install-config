@@ -55,7 +55,7 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt1aaa63824f407eb6/65f33037317981040a17a463/Team_RRHHEG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 2: Configure Basic Settings</h2>
@@ -73,7 +73,7 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://media.sproutsocial.com/uploads/2021/08/email-marketing-featured-image.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 3: Set Up Email</h2>
@@ -97,7 +97,7 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://blogin.co/uploads/images/teams-users.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 4: Create Departments and Teams</h2>
@@ -118,7 +118,7 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.nycastings.com/wp-content/uploads/2017/08/shutterstock_477756436.jpg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 5: Create and Assign Agents</h2>
@@ -138,13 +138,18 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://kateraidt.com/wp-content/uploads/2018/12/hand-792920_1920.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 6: Configure Help Topics</h2>
 
 1. Help Topics:
    - Go to Admin Panel > Manage > Help Topics.
+   - Click on Add New Help Topic.
+   - Enter the help topic name and configure any additional settings (e.g., auto-response).
+   - Click Create Help Topic.
+     <p>
+   EXAMPLE:
      <p>
      Business Critical Outage
         <p>
@@ -153,14 +158,11 @@ After installing osTicket, the following configurations will help you set up the
      Equipment Request
               <p>
      Password Reset
-   - Click on Add New Help Topic.
-   - Enter the help topic name and configure any additional settings (e.g., auto-response).
-   - Click Create Help Topic.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://d3h0owdjgzys62.cloudfront.net/images/9395/live_cover_art/thumb2x/conditional_ticket_v2_3.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 7: Customize Ticket Fields and Forms</h2>
@@ -178,7 +180,7 @@ After installing osTicket, the following configurations will help you set up the
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://infraon.io/blog/wp-content/uploads/2023/02/Service-Level-Agreement-SLA-Learn-About-it-in-2023.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 8: Set Up Service Level Agreements (SLAs)</h2>
@@ -189,12 +191,43 @@ After installing osTicket, the following configurations will help you set up the
    - Enter the SLA name, grace period, and business hours.
    - Assign the SLA to specific help topics or departments.
    - Click Create SLA Plan.
+     <p>
+### Example : IT Support SLA
+   <p>
+Sev-A (1 hour, 24/7)
+<p>
+Sev-B (4 hours, 24/7)
+   <p>
+Sev-C (8 hours, business hours)
+<p>
+
+#### **Agreement Overview**
+- **Parties Involved**: This SLA is between [Company Name] and [Client Name].
+- **Effective Date**: [Start Date]
+- **Review Date**: [Review Date]
+
+#### **Service Description**
+- **Service**: IT support and maintenance services.
+- **Scope**: Includes hardware and software support, network management, and cybersecurity services.
+
+#### **Performance Metrics**
+- **Availability**: 99.9% uptime during business hours (9 AM - 6 PM, Monday to Friday).
+- **Response Time**: Initial response within 30 minutes for critical issues, within 2 hours for high-priority issues, and within 4 hours for normal issues.
+- **Resolution Time**: Critical issues resolved within 4 hours, high-priority issues within 8 hours, and normal issues within 24 hours.
+
+#### **Responsibilities**
+- **Service Provider**: Ensure all systems are operational, provide regular updates, and maintain security protocols.
+- **Client**: Provide access to necessary systems and information, report issues promptly, and follow provided guidelines.
+
+#### **Penalties**
+- **Service Credits**: If uptime falls below 99.9%, the client is entitled to service credits amounting to 5% of the monthly fee for each percentage point below the target.
+
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-autoresponder/sta-je-autoresponder.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <h2>Step 9: Configure Auto-Responder and Alerts</h2>
