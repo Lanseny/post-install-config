@@ -41,7 +41,7 @@ Step 10: Perform System Backup
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://docs.osticket.com/en/latest/_static/images/osticket-supsys-black-white.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After installing osTicket, the following configurations will help you set up the system for optimal performance and usability.
@@ -49,7 +49,7 @@ After installing osTicket, the following configurations will help you set up the
 <h2>Step 1: Log in to the Admin Panel</h2>
 
 1. Access the Admin Panel:
-   - Open a web browser and navigate to your osTicket URL, typically `http://your-server-ip/osticket/scp`.
+   - Open a web browser and navigate to your <a href="http://localhost/osTicket/scp/login.php">osTicket URL</a> within your Virual Machine by Azure
    - Log in using the admin credentials you set during installation.
 </p>
 <br />
