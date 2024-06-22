@@ -145,6 +145,14 @@ After installing osTicket, the following configurations will help you set up the
 
 1. Help Topics:
    - Go to Admin Panel > Manage > Help Topics.
+     <p>
+     Business Critical Outage
+        <p>
+     Personal Computer Issues
+           <p>
+     Equipment Request
+              <p>
+     Password Reset
    - Click on Add New Help Topic.
    - Enter the help topic name and configure any additional settings (e.g., auto-response).
    - Click Create Help Topic.
